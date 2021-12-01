@@ -1,4 +1,4 @@
-﻿using SDKChriptography;
+﻿using SDKCriptography;
 
 var encriptador = new SDKEncryptSHA256("abelito");
 var claveEncriptada = encriptador.Encrypt("123456");

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SDKChriptography\SDKChriptography.csproj" />
+    <ProjectReference Include="..\SDKChriptography\SDKCriptography.csproj" />
   </ItemGroup>
 
 </Project>

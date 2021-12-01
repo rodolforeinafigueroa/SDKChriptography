@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDKChriptography", "SDKChriptography\SDKChriptography.csproj", "{AEF1C648-DC48-4BD5-9C7E-238C24731977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SDKCriptography", "SDKChriptography\SDKCriptography.csproj", "{AEF1C648-DC48-4BD5-9C7E-238C24731977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEncrypt", "TestEncrypt\TestEncrypt.csproj", "{F4B04C98-0785-4AB3-B4CF-DDE7DDAC1965}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestEncrypt", "TestEncrypt\TestEncrypt.csproj", "{F4B04C98-0785-4AB3-B4CF-DDE7DDAC1965}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

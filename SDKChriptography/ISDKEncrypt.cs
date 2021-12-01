@@ -1,4 +1,4 @@
-﻿namespace SDKChriptography
+﻿namespace SDKCriptography
 {
     public interface ISDKEncrypt
     {

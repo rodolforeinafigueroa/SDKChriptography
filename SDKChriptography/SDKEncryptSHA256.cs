@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace SDKChriptography
+namespace SDKCriptography
 {
     public class SDKEncryptSHA256 : ISDKEncrypt
     {
